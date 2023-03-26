@@ -85,3 +85,4 @@ impor  jawa . menggunakan . HashMap ;
   }
 }
 
+groupedBook = groupedBooks . dapatkan ( kategori ); jika (groupedBook == nul
